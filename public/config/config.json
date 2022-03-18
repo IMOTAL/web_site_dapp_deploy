@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6e47Fbe0C0c05613Db881d8F57E37790c778e3a4",
+  "SCAN_LINK": "https://polygonscan.com/address/0x6e47fbe0c0c05613db881d8f57e37790c778e3a4",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "CryptoBears",
+  "SYMBOL": "CB",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 40000000000000000000,
+  "DISPLAY_COST": 40,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cryptobearsofficiall",
+  "SHOW_BACKGROUND": false
+}
